@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "code"
+        "tasks"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
