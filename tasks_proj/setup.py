@@ -1,6 +1,7 @@
 """Minimal setup file for tasks project."""
 
 from setuptools import setup, find_packages
+# from tasks import Task
 
 setup(
     name='tasks',
